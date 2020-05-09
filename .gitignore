@@ -1,0 +1,13 @@
+Binaries/
+Build/
+Config/
+Content/
+Intermediate/
+Library/
+Mods/
+Plugins/
+Saved/
+SML-Shipping-Dev-Win64_WwiseProject/
+Source/
+
+FactoryGame.uproject
